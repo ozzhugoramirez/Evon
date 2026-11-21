@@ -1,10 +1,12 @@
-# Binarios compilados
+# Compiled binaries
 /bin/
-Evon
+/Evon
 
-# Base de datos local de pruebas
+# Local test database
 .Evon/
 
-# Archivos temporales del sistema operativo
+# Operating system files
 .DS_Store
+
+# Logs
 *.log
